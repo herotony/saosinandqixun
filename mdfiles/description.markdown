@@ -8,3 +8,6 @@
     * spring目录，收集所有围绕spring体系的应用收集，比如，dubbo,zookeeper,redisclient,mybatis...。
     * tomcat目录，由于个人舍弃resin，当然转而专心研究tomcat的应用和性能优化的收集。
     * webui目录，由于任何系统必须包含相应的管理网站，所以必须有个快速搭建前端的框架，这里就是收集所有最合适的前端框架处，前端框架必须支持手机端H5显示。
+### 工具
+
+* 固定采用freemind+atom+google chrome的markdown插件+github模式整理所有文档和代码，最后可定期对整理得特别好的可利用google chrome导出为pdf文件保存并添加相应索引目录即可。期望2018，2019年有很大收获并获得一套真正属于自己的开发工具和支付系统。
