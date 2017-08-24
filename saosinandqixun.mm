@@ -26,9 +26,16 @@
 <font BOLD="true" NAME="&#x5fae;&#x8f6f;&#x96c5;&#x9ed1;" SIZE="15"/>
 <icon BUILTIN="launch"/>
 </node>
-<node BACKGROUND_COLOR="#3300cc" COLOR="#ccffff" CREATED="1503309276391" ID="ID_1758297000" MODIFIED="1503309951550" POSITION="left" TEXT="centos">
+<node BACKGROUND_COLOR="#3300cc" COLOR="#ccffff" CREATED="1503309276391" ID="ID_1758297000" MODIFIED="1503537429700" POSITION="left" TEXT="centos">
 <font BOLD="true" NAME="&#x5fae;&#x8f6f;&#x96c5;&#x9ed1;" SIZE="15"/>
 <icon BUILTIN="penguin"/>
+<node BACKGROUND_COLOR="#ccffcc" COLOR="#3333ff" CREATED="1503469264140" ID="ID_276678588" LINK="mdfiles/centos/NiceTool.markdown" MODIFIED="1503537292566" TEXT="&#x5e38;&#x7528;&#x5de5;&#x5177;">
+<font BOLD="true" NAME="&#x5fae;&#x8f6f;&#x96c5;&#x9ed1;" SIZE="15"/>
+</node>
+<node BACKGROUND_COLOR="#006666" COLOR="#ffcc66" CREATED="1503537361757" ID="ID_1160733751" MODIFIED="1503537425712" TEXT="shell&#x811a;&#x672c;&#x7f16;&#x7a0b;">
+<font BOLD="true" NAME="&#x5fae;&#x8f6f;&#x96c5;&#x9ed1;" SIZE="15"/>
+<icon BUILTIN="full-1"/>
+</node>
 </node>
 <node BACKGROUND_COLOR="#009900" COLOR="#cc99ff" CREATED="1503309298370" ID="ID_1737141290" MODIFIED="1503309948856" POSITION="right" TEXT="webui">
 <font BOLD="true" NAME="&#x5fae;&#x8f6f;&#x96c5;&#x9ed1;" SIZE="15"/>
