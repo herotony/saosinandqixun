@@ -40,6 +40,9 @@ call vundle#begin()
 " let Vundle manage Vundle, required
 Plugin 'VundleVim/Vundle.vim'
 
+" sample for nerdtree
+Plugin 'scrooloose/nerdtree'
+
 " 安装插件写在这之前
 call vundle#end()            " required
 filetype plugin on    " required
@@ -56,4 +59,5 @@ filetype plugin on    " required
 " vundle的配置到此结束，下面是你自己的配置
 
 ```
+#### 目录插件：nerdtree
 ### vim一般配置
