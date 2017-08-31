@@ -15,5 +15,6 @@
             * % ： 垂直划分当前窗口中的当前pane
             * " :  水平划分当前窗口中的当前pane
             * x :  关闭当前pane
+        * tmux kill-session -t your-job-name,关闭一个tmux会话。
 
 暂时用到的就这些，其他好处待以后有体会再补充。
