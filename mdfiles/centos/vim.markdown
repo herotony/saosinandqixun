@@ -1,5 +1,6 @@
 ### 公司服务器
 * 在mdpaygate-常规环境中搭建自己的vim练习环境，后续转到公司笔记本，最后，迁移到家里的mac pro上。九月完成。
+* vundle + github管理vim的云配置，将会实现极其容易打理自己的基于vim的开发环境。即简单同步更新相应的.vimrc文件就能通过vundle插件更新所有的插件，从而立即可用vim进行相应的开发。本次将先搭建基于python的开发环境，后续追加c/c++的。逐步记录每个插件的安装，配置和使用的记录。
 #### 添加普通账户
 * 以root登录后，用useradd wangdalin添加普通账户wangdalin
 * 然后用passwd wangdalin为普通账户wangdalin设置密码
