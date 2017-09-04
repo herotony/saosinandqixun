@@ -35,7 +35,7 @@
 <font BOLD="true" NAME="&#x5fae;&#x8f6f;&#x96c5;&#x9ed1;" SIZE="15"/>
 <icon BUILTIN="bookmark"/>
 </node>
-<node BACKGROUND_COLOR="#ccccff" COLOR="#009933" CREATED="1503916188551" ID="ID_886420423" LINK="https://vim-adventures.com/" MODIFIED="1503916230561" TEXT="vim &#x5728;&#x7ebf;&#x6e38;&#x620f;">
+<node BACKGROUND_COLOR="#ccccff" COLOR="#009933" CREATED="1503916188551" ID="ID_886420423" LINK="mdfiles/centos/vim.markdown" MODIFIED="1504225652970" TEXT="vim&#x4e91;&#x914d;&#x7f6e;">
 <icon BUILTIN="idea"/>
 </node>
 </node>
