@@ -14,6 +14,7 @@
 * userdel -r wangdalin,参数 -r 代表同时删除该用户的home目录。
 * 目测tmux不会因为用户删除而删除，其会一直存在...
 ### vim插件安装
+* [经典介绍](http://www.zlovezl.cn/articles/vim-plugins-cannot-live-without/)
 #### 入口插件：插件管理器vundle
 * [网文介绍](http://www.jianshu.com/p/8d416ac4ad11)
 * 该插件最大的优点就是整合了git，使得插件的管理，更新，卸载极大得到简化。
@@ -91,4 +92,20 @@ NERDTree提供了丰富的键盘操作方式来浏览和打开文件，介绍一
 * 标签页可用**gt**直接切换，或者**{N}gt**指定要跳转的标签页，**gT**则反方向跳转
 * **gi/go/gs/**则光标还停在nerdtree目录内。
 * Bookmark在很多层级目录，很多文件时特别有用，输入:Book..tab键会显示相关完整Bookmark指令。大写B会显示书签，再按B则关闭书签显示目录。
+#### 搜索插件ctrlp
+* ctrl+p键的组合简称？一款极其高效的搜索插件，对于多大数百文件的工程项目带来极大的效率上的提升。
+* 只能根据文件名进行搜索，但能在很多级目录中迅速搜索，很快！
+##### 安装
+* 同样非常简单，在上述的.vimrc文件中添加<font color=Teal>Plugin 'kien/ctrlp.vim'</font>,直接在vim中(最好重启一个新的vim)运行PluginUpdate即可。
+##### 配置
+* 需要在.vimrc文件中添加如下配置，其中'c-p'键冲突了，用'c-f'来启动即可
+```
+let g:ctrlp_map = '<c-f>'
+let g:ctrlp_cmd = 'CtrlP'
+let g:ctrlp_match_window = 'bottom,order:btt,min:1,max:10,results:20'
+let g:NERDTreeChDirMode = 2
+let g:ctrlp_working_path_mode = 'rw'
+```
+##### 使用指南
+* [CtrlP插件配置参数说明](http://blog.codepiano.com/pages/ctrlp-cn.light.html#ctrlp_working_path_mode)
 ### vim一般配置
