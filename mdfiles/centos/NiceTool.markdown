@@ -1,3 +1,7 @@
+### which programming language
+ ![which programming language](images/whichprogamminglanguage.jpg)
+ * python,本身优势是编码快速，第三方库多（第三方库多基于c写的），当前运维体系里也用的多。
+ * Java/c/c++,才是企业级应用最多的语言。
 ### tmux
 
 * 该工具最大的好处就是在服务器端保持session，而不用担心断开终端连接相应的工作就被迫中断，这是其最大价值。

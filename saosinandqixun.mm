@@ -29,7 +29,7 @@
 <node BACKGROUND_COLOR="#3300cc" COLOR="#ccffff" CREATED="1503309276391" ID="ID_1758297000" MODIFIED="1503537429700" POSITION="left" TEXT="centos">
 <font BOLD="true" NAME="&#x5fae;&#x8f6f;&#x96c5;&#x9ed1;" SIZE="15"/>
 <icon BUILTIN="penguin"/>
-<node BACKGROUND_COLOR="#ccffcc" COLOR="#3333ff" CREATED="1503469264140" ID="ID_276678588" LINK="mdfiles/centos/NiceTool.markdown" MODIFIED="1503537292566" TEXT="&#x5e38;&#x7528;&#x5de5;&#x5177;">
+<node BACKGROUND_COLOR="#ccffcc" COLOR="#3333ff" CREATED="1503469264140" ID="ID_276678588" LINK="mdfiles/centos/NiceTool.markdown" MODIFIED="1504770362966" TEXT="&#x5e38;&#x7528;&#x5de5;&#x5177;">
 <font BOLD="true" NAME="&#x5fae;&#x8f6f;&#x96c5;&#x9ed1;" SIZE="15"/>
 <node BACKGROUND_COLOR="#ffcc66" COLOR="#009933" CREATED="1503905748917" ID="ID_655266765" LINK="http://www.openvim.com/" MODIFIED="1503905807201" TEXT="&#x4e0d;&#x9519;&#x7684;vim&#x4eff;&#x771f;&#x7ec3;&#x4e60;&#x7f51;&#x7ad9;">
 <font BOLD="true" NAME="&#x5fae;&#x8f6f;&#x96c5;&#x9ed1;" SIZE="15"/>
