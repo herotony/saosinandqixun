@@ -1,5 +1,5 @@
 ### 公司服务器
-* 在mdpaygate-常规环境中搭建自己的vim练习环境，后续转到公司笔记本，最后，迁移到家里的mac pro上。九月完成。
+* 在mdpaygate-常规环境(10.9.28.109)中搭建自己的vim练习环境，后续转到公司笔记本，最后，迁移到家里的mac pro上。九月完成。
 * vundle + github管理vim的云配置，将会实现极其容易打理自己的基于vim的开发环境。即简单同步更新相应的.vimrc文件就能通过vundle插件更新所有的插件，从而立即可用vim进行相应的开发。本次将先搭建基于python的开发环境，后续追加c/c++的。逐步记录每个插件的安装，配置和使用的记录。
     * [参考网文：如何建立vim云配置](http://jintongyao.github.io/2014/how-to-use-vundle/)
 * 在windows下，建议使用gitbash.exe来模拟linux命令行环境，cd ~ -> ls -a -> install vundle...算啦，各种不正常，windows环境下不瞎折腾了.
@@ -108,4 +108,6 @@ let g:ctrlp_working_path_mode = 'rw'
 ```
 ##### 使用指南
 * [CtrlP插件配置参数说明](http://blog.codepiano.com/pages/ctrlp-cn.light.html#ctrlp_working_path_mode)
+* 在<c-v>,<c-x>,<c-t>分别对应将搜素结果垂直，水平分割显示或新标签页显示选中文件
+* 而<c-k>,<c-j>是在搜索结果中上下浏览选中搜索结果。
 ### vim一般配置
